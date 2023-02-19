@@ -1,2 +1,2 @@
 # git-test
-repository for practicing git 
+example text 
